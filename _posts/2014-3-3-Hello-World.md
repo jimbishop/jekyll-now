@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: This is a test post
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Good day! I am Jim Bishop, a technology professional with ten plus years experience in the Information Technology field. I have wide and varied experience from spannering on small home PC's to setting up advance cluster computing to be used on feature films. I am now here to help you or your business with the day to day technology questions and problems that we deal with in the current high technology world in which we live.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Technology Rollout
+
+If you require help setting up the computing infrastructure for your office, internet cafe or small business I can help here. From advice on which products to chose and what type of internet connection you will require to system building, networking, filer and mail server installation. I can also come up with a sound back up stratergy to save you from future headaches, loss of profit and loss of data.
