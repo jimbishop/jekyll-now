@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-I will endevour to get back to you as soon as possible, I can be contacted night and day.
+I will endeavour to get back to you as soon as possible, I can be contacted night and day.
 
 * [Email : jimbishop@iinet.net.au](mailto:jimbishop@iinet.net.au)
 * Phone : 0421 219 018
