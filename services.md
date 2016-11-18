@@ -26,4 +26,4 @@ If you are in need of someone to remotely configure, update, audit or update you
 If you are in need of some tutelage regarding basic computing, internet usage, smart phone and tablet usage or anything else that you can think of I can help here. I quite enjoy teaching and helping folks and the more people competent with technology the better regardless the age.
 
 
-Go ahead and [contact](./contact) me if you have any questions whatsoever!
+Go ahead and [contact](../contact) me if you have any questions whatsoever!
