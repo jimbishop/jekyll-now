@@ -22,10 +22,9 @@ I can assess your current system setup and advise on new hardware and software s
 When you are thinking about what type of systems that your new or existing business needs I can come up with an IT infrastructure plan, design the system, roll it out and support it.
 
 ### Remote Support
-If you are in need of someone to remotely configure, update, audit or update your systems whether they be Linux, Windows, Unix or Mac that can be arranged.
+If you are in need of someone to remotely configure, update or audit your systems whether they be Linux, Windows, Unix or Mac that can be arranged.
 
 ### Learning
-If you are in need of some tutelage regarding basic computing, internet usage, smart phone and tablet usage or anything else that you can think of I can help here. I quite enjoy teaching and helping folks and the more people competent with technology the better regardless the age.
-
+If you are in need of some tutelage regarding basic computing, internet usage, smart phone and tablet usage or anything else that you can think of I can help here. I quite enjoy teaching and helping folks. The more people competent with technology the better regardless the age. I am of the opinion that you can teach an old dog new tricks.
 
 Go ahead and [contact](../contact) me if you have any questions whatsoever!
