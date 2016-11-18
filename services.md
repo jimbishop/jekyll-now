@@ -6,11 +6,13 @@ permalink: /services/
 Here are some of the services that I offer.
 
 ### Residential
-Whether it be Hardware problems, Software issues, A virus, Internet connectivity issues, At home network setup, Smart phone or tablet problems, Game Console trouble shooting nothing is too big or too small.
+Whether it be hardware problems, software issues, a virus, internet connectivity issues, browser issues, at home network setup, smart phone or tablet problems, game Console trouble shooting.. Nothing is too big or too small.
 
 If you are having your home built or renovating I can work along side contractors to come up with and install an optimal network configuration for you.
 
-Depending on the hardware issue at hand, if you prefer at home hardware repair can take place.
+Depending on the hardware issue at hand, if you prefer, at home hardware repair can take place.
+
+Security and privacy is important these days in our always online society. I can advise you and your family on the best practises to reduce the risk of identity theft and credit card fraud.
 
 ### Business
 When in business having technological systems that are not working as they should causes downtime and hence lost profit. I endeavour to build solid, reliable and secure systems for my business customers and am available when you need it most. If there is an urgent problem I can be contacted and be on my way or logged in quickly.
