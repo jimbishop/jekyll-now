@@ -8,4 +8,4 @@ Some of the services which I offer can be seen in the **Services** link above.
 
 You can also *Email* me, check out the *Instagram* or go to my *LinkedIn* via the buttons below.
 
-![Pic 1](images/1.jpg "Test")
+![Pic 1](images/1.jpg "Test")![Pic 2](images/2.jpg "Test 2")![Pic 3](images/3.jpg "Test 3")
