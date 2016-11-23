@@ -5,7 +5,7 @@ permalink: /services/
 ---
 Here are some of the services that I offer.
 
-### Residential
+### Home
 Whether it be hardware problems, software issues, a virus, internet connectivity issues, browser issues, at home network setup, smart phone or tablet problems, game console trouble shooting.. Nothing is too big or too small.
 
 If you are having your home built or renovating I can work along side contractors to come up with and install an optimal network configuration for you.
