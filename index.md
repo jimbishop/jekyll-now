@@ -7,3 +7,5 @@ I am Jim Bishop, a technology professional now based in **Perth Western Australi
 Some of the services which I offer can be seen in the **Services** link above.
 
 You can also *Email* me, check out the *Instagram* or go to my *LinkedIn* via the buttons below.
+
+![Pic 1](images/1.jpg "Test")
