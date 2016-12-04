@@ -18,4 +18,4 @@ Depending on distance from Perth CBD the call out fee will vary :
 * 50KM+ : $80
 
 ### Remote support
-I charge $25 per half hour for remote support.
+I charge $30 per half hour for remote support.
