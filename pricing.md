@@ -12,6 +12,7 @@ When bringing your machine to my location I charge according to the problem that
 I charge $50 Per Hour plus call out fees, after one hour I charge in 30 minute blocks.
 
 Depending on distance from Perth CBD the call out fee will vary :
+
 * Within 25KM : $30
 * From 25KM - 50KM : $55
 * 50KM+ : $80
